@@ -1,0 +1,10 @@
+.vs/
+Aplicacion/obj
+Persistencia/obj/Debug/
+WebAPI/obj
+FrontEnd/obj
+.vs/NetCorePage_Razor/config/applicationhost.config
+.vs/NetCorePage_Razor/v16/.suo
+Aplicacion/obj/Debug/net5.0/Aplicacion.csproj/AssemblyReference.cache
+*AssemblyReference.cache
+.suo
